@@ -9,7 +9,7 @@ const MN241 = () => {
                 <h1 className={style.mn241Title}>MN-241</h1>
                 <div className={style.mn241material}>
                 <div className={style.mn241box}><a className ={style.mn241links}
-                href='https://drive.google.com/file/d/1sLzSlpBibSTaBa2RaOZYWMmhHve1VGoV/view?usp=drive_link' >
+                href='https://drive.google.com/file/d/1Qfwl-rjIrPr4vzoTWSYCwaG9HszM78vZ/view?usp=drive_link' >
                     <h2>Course Overview</h2>
                     </a></div>
                     <div className={style.mn241box}><a className ={style.mn241links}
@@ -47,6 +47,10 @@ const MN241 = () => {
                     <div className={style.mn241box}><a className ={style.mn241links}
                     href ='https://drive.google.com/file/d/1RFG9zTPEpQr4edcgxYYrELmMazrPHnWb/view?usp=drive_link'>
             <h2>Gas testing mine ventilation lab</h2>
+                    </a></div>
+                    <div className={style.mn241box}><a className ={style.mn241links}
+                    href ='https://drive.google.com/file/d/1fh683ms-PGbAZE4k7FUYGBWPivDw4Mgh/view?usp=drive_link'>
+            <h2>Book References</h2>
                     </a></div>
  
             </div>

@@ -32,18 +32,12 @@ const MN322 = () => {
                     href ='https://drive.google.com/file/d/1zpDftgnA1FIEURUfMaTrWko1l_DlrayU/view?usp=drive_link'>
             <h2>Sublevel Stoping</h2>
                     </a></div>
-                    <div className={style.mn322box}><a className ={style.mn322links}
-                    href =''>
-            <h2></h2>
-                    </a></div>
+                   
                     <div className={style.mn322box}><a className ={style.mn322links}
                     href ='https://drive.google.com/file/d/1S1RjcNceoXSyQj_DFshzokUSDM3KzCbq/view?usp=drive_link'>
             <h2>Handwritten Notes</h2>
                     </a></div>
-                    <div className={style.mn322box}><a className ={style.mn322links}
-                    href =''>
-            <h2></h2>
-                    </a></div>
+                    
  
             </div>
             </div>

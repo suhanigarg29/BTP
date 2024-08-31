@@ -9,6 +9,10 @@ const MN212 = () => {
                 <h1 className={style.mn212Title}>MN-212</h1>
                 <div className={style.mn212material}>
                 
+                <div className={style.mn212box}><a className ={style.mn212links}
+                    href ='https://drive.google.com/file/d/1IzuMtQW8ctKhlLOZEeA56nFGdhDU8ST0/view?usp=drive_link'>
+            <h2>Course Overview</h2>
+                    </a></div>
                     <div className={style.mn212box}><a className ={style.mn212links}
                     href ='https://drive.google.com/file/d/1WCFEBMBR1ZGgRsBkTJEzIj0rnEJ5GobN/view?usp=drive_link'>
             <h2>Calculation of Area and Volume</h2>
