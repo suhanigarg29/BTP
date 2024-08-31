@@ -9,7 +9,7 @@ const MN112 = () => {
                 <h1 className={style.mn112Title}>MN-112</h1>
                 <div className={style.mn111material}>
                 <div className={style.mn112box}><a className ={style.mn112links}
-                href='https://drive.google.com/file/d/1DrybhGOSizB-iwLIEC1fyCC_35lew7IB/view?usp=drive_link' >
+                href='https://drive.google.com/file/d/1dtJB1p1ADd7qv7prdsHgnpdGy9bNRrts/view?usp=drive_link' >
                     <h2>Introduction to mining methods</h2>
                     </a></div>
                     <div className={style.mn112box}><a className ={style.mn112links}

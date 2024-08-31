@@ -85,6 +85,10 @@ const MN251 = () => {
             <h2>Shaft Coupling</h2>
                     </a></div>
                     <div className={style.mn251box}><a className ={style.mn251links}
+                    href ='https://drive.google.com/file/d/1TpUJfotVBCRfU3t3M_A-eMW4yRmB9Rro/view?usp=drive_link'>
+            <h2>Power Supports</h2>
+                    </a></div>
+                    <div className={style.mn251box}><a className ={style.mn251links}
                     href ='https://drive.google.com/file/d/1hBtGqFkcOIEDomtU76VODTnPyXxTykFV/view?usp=drive_link'>
             <h2>Maintenances</h2>
                     </a></div>

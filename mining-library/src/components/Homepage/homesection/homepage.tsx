@@ -52,7 +52,7 @@ const HomePage = () => {
                             <li>University Institute of Technology, Shahdol</li>
                             <li>College of Engineering, Anna University</li>
                             <li>Birsa Institute of Technology, Sindri</li>
-                            <li>University College of Engineering, Osmania University</li>
+                            <li>College of Engineering, Osmania University</li>
                             <li>Rashtrasant Tukadoji Maharaj Nagpur University</li>
                             {/* <li>MBM Engineering College</li>
                             <li>Government College of Engineering, Biju Patnaik University of Technology</li>

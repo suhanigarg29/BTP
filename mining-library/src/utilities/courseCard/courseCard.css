@@ -15,6 +15,7 @@
   margin: 30px;
 }
 
+
 .card-container:hover {
   box-shadow: 0 0 20px 10px rgba(52, 152, 219, 0.7); /* Glow effect */
 }
@@ -25,6 +26,7 @@
   object-fit: cover;
   border-radius: 1rem 1rem 0 0;
 }
+
 
 .card-title {
   text-align: center;

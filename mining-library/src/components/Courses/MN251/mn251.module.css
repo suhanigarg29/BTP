@@ -22,3 +22,6 @@
    text-align: center;
    
 }
+.mn251box:hover {
+    box-shadow: 0 0 20px 10px rgba(52, 152, 219, 0.7); /* Glow effect */
+  }
