@@ -34,7 +34,7 @@ const MN322 = () => {
                     </a></div>
                    
                     <div className={style.mn322box}><a className ={style.mn322links}
-                    href ='https://drive.google.com/file/d/1S1RjcNceoXSyQj_DFshzokUSDM3KzCbq/view?usp=drive_link'>
+                    href ='https://drive.google.com/file/d/1zpDftgnA1FIEURUfMaTrWko1l_DlrayU/view?usp=sharing'>
             <h2>Handwritten Notes</h2>
                     </a></div>
                     
